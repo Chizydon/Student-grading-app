@@ -9,6 +9,8 @@ it will them bring it to position based on the score
 
 Example usage:
 
+grade.py
+
 enter score, if score is bellow 49
 result : fail
 if 50 to 60:
@@ -38,6 +40,6 @@ else:
 
 Contributing
 
-Feej free to contribute by submitting issues or pu;; requests.
+Feel free to contribute by submitting issues or pu;; requests.
    
     
